@@ -28,13 +28,8 @@ function Projects(props) {
 							<p>{project.title}</p>
 						</div>
 						<div className="project-links">
-							<ImGithub
-								href={project.repo}
-								className="project-link"
-							></ImGithub>
-							<MdOpenInNew className="project-link">
-								<a href={project.url} />
-							</MdOpenInNew>
+							<a href={project.repo}><ImGithub className="project-link"/></a>
+							<a href={project.url} style={{marginLeft: '15px'}}><MdOpenInNew className="project-link"/></a>
 						</div>
 					</div>
 				</div>

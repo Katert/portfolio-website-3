@@ -65,12 +65,15 @@
 }
 
 .project-link {
+    color: white;
     font-size: 28px;
     margin-top: 20px;
+    transition: all 0.2s ease-in;
 }
 
-.project-link + .project-link {
-    margin-left: 20px;
+.project-link:hover {
+    color: black;
+    transition: all 0.2s ease-out;
 }
 
 @media screen and (max-width: 1000px) {
