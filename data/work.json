@@ -18,8 +18,15 @@
 			"title" : "Portfolio Website (V2)",
 			"description" : "My second portfolio website.",
 			"image" : "portfolio-thumb.png",
-			"url" : "http://wesleykater.com",
+			"url" : "https://katert.github.io/portfolio-website-2/#/",
 			"repo" : "https://github.com/Katert/PortfolioWebsite2"
+		},
+		{
+			"title" : "Portfolio Website (V3)",
+			"description" : "My current portfolio website.",
+			"image" : "portfolio-v3-thumb.png",
+			"url" : "http://wesleykater.com",
+			"repo" : "https://github.com/Katert/portfolio-website-3"
 		}
 	]
 }
