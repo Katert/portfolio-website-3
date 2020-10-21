@@ -1,0 +1,70 @@
+{
+  "skills": [
+    {
+      "name" : "HTML",
+      "type" : "language",
+      "icon" : "devicon-html5-plain-wordmark colored",
+      "animateDuration" : 2
+    },
+    {
+      "name" : "CSS",
+      "type" : "language",
+      "icon" : "devicon-css3-plain-wordmark colored",
+      "animateDuration" : 2.1
+    },
+    {
+      "name" : "Sass",
+      "type" : "language",
+      "icon" : "devicon-sass-original colored",
+      "animateDuration" : 2.2
+    },
+    {
+      "name" : "JavaScript",
+      "type" : "language",
+      "icon" : "devicon-javascript-plain colored",
+      "animateDuration" : 2.3
+    },
+    {
+      "name" : "React.js",
+      "type" : "libfra",
+      "icon" : "devicon-react-original-wordmark colored",
+      "animateDuration" : 2.4
+    },
+    {
+      "name" : "Node.js",
+      "type" : "libfra",
+      "icon" : "devicon-nodejs-plain colored",
+      "animateDuration" : 2.6
+    },
+    {
+      "name" : "Express",
+      "type" : "libfra",
+      "icon" : "devicon-express-original-wordmark colored",
+      "animateDuration" : 2.7
+    },
+    {
+      "name" : "Github",
+      "type" : "topl",
+      "icon" : "devicon-github-plain-wordmark",
+      "animateDuration" : 2.8
+    },
+    {
+      "name" : "Git",
+      "type" : "topl",
+      "icon" : "devicon-git-plain-wordmark colored",
+      "animateDuration" : 2.9
+    },
+    {
+      "name" : "Heroku",
+      "type" : "topl",
+      "icon" : "devicon-heroku-plain-wordmark colored",
+      "animateDuration" : 3
+    },
+    {
+      "name" : "Visual Studio",
+      "type" : "topl",
+      "icon" : "devicon-visualstudio-plain",
+      "animateDuration" : 3.1
+    }
+  ]
+}
