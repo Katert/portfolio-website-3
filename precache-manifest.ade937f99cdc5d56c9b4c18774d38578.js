@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e40be2682e3ce6830a544fa4d5c1a596",
+    "revision": "36087bf39279853b864ebb9868cf6b12",
     "url": "/portfolio-website-3/index.html"
   },
   {
-    "revision": "ffc43f48596578e5f4d9",
+    "revision": "7c9b6643d6ed9b8894ac",
     "url": "/portfolio-website-3/static/css/2.eb43dee1.chunk.css"
   },
   {
-    "revision": "0ab94501bc4847e2dd48",
-    "url": "/portfolio-website-3/static/css/main.9dfc86a6.chunk.css"
+    "revision": "782a128a02ba1ca74a71",
+    "url": "/portfolio-website-3/static/css/main.99c7d225.chunk.css"
   },
   {
-    "revision": "ffc43f48596578e5f4d9",
-    "url": "/portfolio-website-3/static/js/2.519a7809.chunk.js"
+    "revision": "7c9b6643d6ed9b8894ac",
+    "url": "/portfolio-website-3/static/js/2.70e17ebd.chunk.js"
   },
   {
     "revision": "b3e2770e6336acd821638b70a2a55e3e",
-    "url": "/portfolio-website-3/static/js/2.519a7809.chunk.js.LICENSE.txt"
+    "url": "/portfolio-website-3/static/js/2.70e17ebd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ab94501bc4847e2dd48",
-    "url": "/portfolio-website-3/static/js/main.a64ea98d.chunk.js"
+    "revision": "782a128a02ba1ca74a71",
+    "url": "/portfolio-website-3/static/js/main.d7bea56a.chunk.js"
   },
   {
     "revision": "8650578d9614134be09a",
     "url": "/portfolio-website-3/static/js/runtime-main.0a841d74.js"
   },
   {
-    "revision": "84cc014157b8ddb2c14be7125a4f8a6e",
-    "url": "/portfolio-website-3/static/media/About3.84cc0141.svg"
+    "revision": "d86b84db19cec0f55718bff21bf5d94d",
+    "url": "/portfolio-website-3/static/media/About3.d86b84db.svg"
   },
   {
     "revision": "f667c44d7b421ee5fa464d5174ee4d25",
@@ -44,8 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-website-3/static/media/Profile.02a6df84.svg"
   },
   {
-    "revision": "24c401fa76c294198d0acc2504f5b49e",
-    "url": "/portfolio-website-3/static/media/Skills.24c401fa.svg"
+    "revision": "06a0ebc53369752ff5b0798894c7a20a",
+    "url": "/portfolio-website-3/static/media/Skills.06a0ebc5.svg"
+  },
+  {
+    "revision": "070a1df3b6d495da211d8cdd7f5f7d3d",
+    "url": "/portfolio-website-3/static/media/covid-19-thumb-2.070a1df3.png"
   },
   {
     "revision": "37346f8abf8733591ecde4d456f21a13",
