@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7438f74696ce3e3e083180d5c7a575c",
+    "revision": "ef896b18128afb6636ea71a3eb8d15d7",
     "url": "/portfolio-website-3/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-website-3/static/css/2.eb43dee1.chunk.css"
   },
   {
-    "revision": "a9f762a92e3db083866f",
-    "url": "/portfolio-website-3/static/css/main.7e820104.chunk.css"
+    "revision": "f80e1a2246cb8eae2964",
+    "url": "/portfolio-website-3/static/css/main.4547541f.chunk.css"
   },
   {
     "revision": "7c9b6643d6ed9b8894ac",
@@ -20,20 +20,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-website-3/static/js/2.70e17ebd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9f762a92e3db083866f",
-    "url": "/portfolio-website-3/static/js/main.e749204a.chunk.js"
+    "revision": "f80e1a2246cb8eae2964",
+    "url": "/portfolio-website-3/static/js/main.4d1fafc9.chunk.js"
   },
   {
     "revision": "8650578d9614134be09a",
     "url": "/portfolio-website-3/static/js/runtime-main.0a841d74.js"
   },
   {
+    "revision": "00f744b4e78583ac9cf0ed7001b11f9f",
+    "url": "/portfolio-website-3/static/media/About.00f744b4.svg"
+  },
+  {
     "revision": "d86b84db19cec0f55718bff21bf5d94d",
     "url": "/portfolio-website-3/static/media/About3.d86b84db.svg"
   },
   {
-    "revision": "f667c44d7b421ee5fa464d5174ee4d25",
-    "url": "/portfolio-website-3/static/media/Contact2.f667c44d.svg"
+    "revision": "565dfd95dc829c15ec3aecb46ceb88c3",
+    "url": "/portfolio-website-3/static/media/Background.565dfd95.svg"
+  },
+  {
+    "revision": "80a89f8b7caab553bb056e2afdf70e9e",
+    "url": "/portfolio-website-3/static/media/Contact2.80a89f8b.svg"
   },
   {
     "revision": "214c40523434ae8dd00fcc38f9bf0840",
@@ -42,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "02a6df84cbca947975e8639fc8b5fc82",
     "url": "/portfolio-website-3/static/media/Profile.02a6df84.svg"
-  },
-  {
-    "revision": "06a0ebc53369752ff5b0798894c7a20a",
-    "url": "/portfolio-website-3/static/media/Skills.06a0ebc5.svg"
   },
   {
     "revision": "070a1df3b6d495da211d8cdd7f5f7d3d",
