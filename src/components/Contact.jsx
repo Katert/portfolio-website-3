@@ -1,4 +1,4 @@
-import React, { Component, useEffect } from "react";
+import React, { Component } from "react";
 import Axios from "axios";
 import "../css/Contact.css";
 import ContactImg from "../img/Contact2.svg";
@@ -84,7 +84,7 @@ class ContactForm extends Component {
 			<div data-aos="fade-up" id="contact" className="contact-section">
 				<h1>Contact</h1>
 				<p className="contact-subtitle">
-					Give me a call at +31 6 31694714 or send me an e-mail below.
+					Let's talk. Give me a call at +31 6 31694714 or send me an e-mail.
 				</p>
 				<div className="contact-container">
 					<div className="contact-form">

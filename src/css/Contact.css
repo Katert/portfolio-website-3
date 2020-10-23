@@ -2,9 +2,8 @@
 	padding: 100px;
 	background-color: whitesmoke;
     color: rgb(12, 27, 49);
-	/* background-image: url("../img/Contact3.svg");
-	background-repeat: no-repeat;
-	background-size: cover; */
+    background-image: url("../img/Background.svg");
+	background-repeat: repeat;
 }
 
 .contact-section h1 {

@@ -1,9 +1,8 @@
 .projects-section {
 	padding: 100px;
     background-color: whitesmoke;
-    /* background-image: url('../img/Work.svg');
-    background-repeat: no-repeat;
-    background-size: cover; */
+    background-image: url("../img/Background.svg");
+	background-repeat: repeat;
 }
 
 .projects-section h1 {
@@ -46,7 +45,7 @@
 }
 
 .project-img {
-    width: 100%;
+    width: 220px;
     height: 200px;
     border-radius: 10px 10px 10px 10px;
 }

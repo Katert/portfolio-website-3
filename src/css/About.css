@@ -1,11 +1,11 @@
 .main-section {
 	padding: 100px;
     background-color: whitesmoke;
-    /* background-image: url('../img/About.svg'); */
     background-repeat: no-repeat;
     background-size: cover;
-    /* background-color: #151927; */
     color: rgb(12, 27, 49);
+    background-image: url("../img/Background.svg");
+	background-repeat: repeat;
 }
 
 .main-container {

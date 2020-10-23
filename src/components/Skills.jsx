@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import "../css/Skills.css";
 import { motion } from "framer-motion";
-import SkillsImg from "../img/Skills.svg";
+import SkillsImg from "../img/About.svg";
 import AOS from "aos";
 import "aos/dist/aos.css";
 

@@ -13,7 +13,7 @@ function About() {
 	return (
 		<div id="about" className="main-section">
 			<div data-aos="fade-up" className="main-container">
-				<h1>Hi, I'm Wesley!</h1>
+				<h1>Hi, I'm Wesley.</h1>
 				<div className="main-content">
 					<div className="main-text">
 						<h2>
@@ -28,10 +28,8 @@ function About() {
 							organisation Academia de Codigo.
 							<br />
 							I enjoy solving problems with creative solutions.
-							I'm a sucker for eye-pleasing designs and
-							thought-out user experiences, and I believe those
-							contribute to a well functioning website or
-							application.
+							I'm a fan of simplistic yet eye-pleasing designs and
+							thought-out user experiences. 
 						</p>
 					</div>
 					<div className="main-image">

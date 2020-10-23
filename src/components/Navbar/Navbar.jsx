@@ -6,13 +6,24 @@ import "../../css/Navbar.css";
 
 function Navbar() {
 
+	var prevScrollPosition = window.pageYOffset;
+	window.onscroll = function() {
+		var currentScrollPosition = window.pageYOffset;
+		if (prevScrollPosition > currentScrollPosition) {
+			document.getElementById('navbar').style.top = "0";
+		} else {
+			document.getElementById('navbar').style.top = "-50px";
+		}
+		prevScrollPosition = currentScrollPosition;
+	}
+
 	return (
 		<motion.nav 
+			id="navbar"
 			className="navbar-items"
 			initial={{y: -100}}
 			animate={{y: 0}}
 			transition={{duration: 1}}>
-			{/* <img src={Logo} className="navbar-logo"/> */}
 			<ul
 				className="nav-menu"
 			>
