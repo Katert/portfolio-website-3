@@ -28,5 +28,13 @@
 			"url" : "http://wesleykater.com",
 			"repo" : "https://github.com/Katert/portfolio-website-3"
 		}
+		,
+		{
+			"title" : "Contact form API",
+			"description" : "Created for handling the contact form on my portfolio website.",
+			"image" : "contact-form-api.svg",
+			"url" : "https://portfolio-contactform-api.herokuapp.com/api/test",
+			"repo" : "https://github.com/Katert/ContactFormAPI"
+		}
 	]
 }
