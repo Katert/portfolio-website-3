@@ -1,37 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio-website-3/static/css/main.9852dd78.chunk.css",
-    "main.js": "/portfolio-website-3/static/js/main.cca41479.chunk.js",
-    "main.js.map": "/portfolio-website-3/static/js/main.cca41479.chunk.js.map",
+    "main.css": "/portfolio-website-3/static/css/main.c25292a9.chunk.css",
+    "main.js": "/portfolio-website-3/static/js/main.691724a4.chunk.js",
+    "main.js.map": "/portfolio-website-3/static/js/main.691724a4.chunk.js.map",
     "runtime-main.js": "/portfolio-website-3/static/js/runtime-main.0a841d74.js",
     "runtime-main.js.map": "/portfolio-website-3/static/js/runtime-main.0a841d74.js.map",
     "static/css/2.eb43dee1.chunk.css": "/portfolio-website-3/static/css/2.eb43dee1.chunk.css",
-    "static/js/2.e9d6df77.chunk.js": "/portfolio-website-3/static/js/2.e9d6df77.chunk.js",
-    "static/js/2.e9d6df77.chunk.js.map": "/portfolio-website-3/static/js/2.e9d6df77.chunk.js.map",
+    "static/js/2.b798ddd5.chunk.js": "/portfolio-website-3/static/js/2.b798ddd5.chunk.js",
+    "static/js/2.b798ddd5.chunk.js.map": "/portfolio-website-3/static/js/2.b798ddd5.chunk.js.map",
     "index.html": "/portfolio-website-3/index.html",
-    "precache-manifest.571a93b0b08baaa185d14e24c6b432fd.js": "/portfolio-website-3/precache-manifest.571a93b0b08baaa185d14e24c6b432fd.js",
+    "precache-manifest.91323f3d16704bef3d5d2b30869312d9.js": "/portfolio-website-3/precache-manifest.91323f3d16704bef3d5d2b30869312d9.js",
     "service-worker.js": "/portfolio-website-3/service-worker.js",
     "static/css/2.eb43dee1.chunk.css.map": "/portfolio-website-3/static/css/2.eb43dee1.chunk.css.map",
-    "static/css/main.9852dd78.chunk.css.map": "/portfolio-website-3/static/css/main.9852dd78.chunk.css.map",
-    "static/js/2.e9d6df77.chunk.js.LICENSE.txt": "/portfolio-website-3/static/js/2.e9d6df77.chunk.js.LICENSE.txt",
+    "static/css/main.c25292a9.chunk.css.map": "/portfolio-website-3/static/css/main.c25292a9.chunk.css.map",
+    "static/js/2.b798ddd5.chunk.js.LICENSE.txt": "/portfolio-website-3/static/js/2.b798ddd5.chunk.js.LICENSE.txt",
     "static/media/About.svg": "/portfolio-website-3/static/media/About.d0583988.svg",
     "static/media/About3.svg": "/portfolio-website-3/static/media/About3.d86b84db.svg",
     "static/media/Contact.css": "/portfolio-website-3/static/media/Background.565dfd95.svg",
     "static/media/Contact2.svg": "/portfolio-website-3/static/media/Contact2.80a89f8b.svg",
     "static/media/LogoPW2.png": "/portfolio-website-3/static/media/LogoPW2.214c4052.png",
-    "static/media/Profile.svg": "/portfolio-website-3/static/media/Profile.02a6df84.svg",
-    "static/media/contact-form-api.svg": "/portfolio-website-3/static/media/contact-form-api.3ddcb5ae.svg",
-    "static/media/covid-19-thumb-2.png": "/portfolio-website-3/static/media/covid-19-thumb-2.070a1df3.png",
-    "static/media/covid-19-thumb.png": "/portfolio-website-3/static/media/covid-19-thumb.37346f8a.png",
-    "static/media/portfolio-thumb.png": "/portfolio-website-3/static/media/portfolio-thumb.77993eeb.png",
-    "static/media/portfolio-v1-thumb.png": "/portfolio-website-3/static/media/portfolio-v1-thumb.68be3641.png",
-    "static/media/portfolio-v3-thumb.png": "/portfolio-website-3/static/media/portfolio-v3-thumb.5dc5a4d1.png"
+    "static/media/Profile.svg": "/portfolio-website-3/static/media/Profile.02a6df84.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0a841d74.js",
     "static/css/2.eb43dee1.chunk.css",
-    "static/js/2.e9d6df77.chunk.js",
-    "static/css/main.9852dd78.chunk.css",
-    "static/js/main.cca41479.chunk.js"
+    "static/js/2.b798ddd5.chunk.js",
+    "static/css/main.c25292a9.chunk.css",
+    "static/js/main.691724a4.chunk.js"
   ]
 }
