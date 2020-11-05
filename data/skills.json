@@ -25,10 +25,16 @@
       "animateDuration" : 2.3
     },
     {
+      "name" : "Java",
+      "type" : "language",
+      "icon" : "devicon-java-plain-wordmark colored",
+      "animateDuration" : 2.4
+    },
+    {
       "name" : "React.js",
       "type" : "libfra",
       "icon" : "devicon-react-original-wordmark colored",
-      "animateDuration" : 2.4
+      "animateDuration" : 2.5
     },
     {
       "name" : "Node.js",
